@@ -71,10 +71,8 @@ The project uses the following tables:
 ---
 
 ## 📷 Images:
-
+https://github.com/Shagun6395/FARMERS-MARKET-DASHBOARD/blob/main/Quality%20wise%20Analysis%20.png
 https://github.com/Shagun6395/FARMERS-MARKET-DASHBOARD/blob/main/Sales%20wise%20analysis.png
 
 ---
-
-## 🙌 Acknowledgements
 Special thanks to the data providers and contributors who supported the creation of this dashboard.
