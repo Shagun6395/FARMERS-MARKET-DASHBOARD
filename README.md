@@ -72,6 +72,8 @@ The project uses the following tables:
 
 ## 📷 Images:
 
+https://github.com/Shagun6395/FARMERS-MARKET-DASHBOARD/blob/main/Sales%20wise%20analysis.png
+
 ---
 
 ## 🙌 Acknowledgements
