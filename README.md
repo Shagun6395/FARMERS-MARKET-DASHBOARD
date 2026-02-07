@@ -1,4 +1,13 @@
 # Farmers Market Dashboard
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Preprocessing-success)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811)
+![EDA](https://img.shields.io/badge/EDA-Exploratory-success)
+
+
+
 This **Power BI** dashboard project designed to analyze and visualize data from a Farmers Market, providing insights into **product quality**, **sales trends**, and **vendor performance**. The dashboard leverages multiple interconnected tables to create two main reports:
 
 1. **Quality-Wise Analysis** – Focused on product quality metrics, customer preferences, and category-level insights.
