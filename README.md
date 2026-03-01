@@ -4,7 +4,6 @@
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Preprocessing-success)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811)
-![EDA](https://img.shields.io/badge/EDA-Exploratory-success)
 
 
 
